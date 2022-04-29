@@ -1,12 +1,20 @@
 # A QR code generator 
 
-## Clone the repo and follow the steps in your terminal
+## Built with react and Vite.
+
+### Steps to follow
 
 ```
-git status
-git add
-git commit
+git clone https://github.com/dakioso/qr-gen-react.git
+cd qr-gen-react
+npm i
+
 ```
+### Start the app
+
+Run ```npm run dev``` to start the dev server
+Run ```npm run preview``` to run the preview of the production app
+Run ```npm run build``` to run the production build
 
 Now test the app and generate your own custom QR codes to your site. 
 
