@@ -12,9 +12,9 @@ npm i
 ```
 ### Start the app
 
-Run ```npm run dev``` to start the dev server
-Run ```npm run preview``` to run the preview of the production app
-Run ```npm run build``` to run the production build
+- Run ```npm run dev``` to start the dev server
+- Run ```npm run preview``` to run the preview of the production app
+- Run ```npm run build``` to run the production build
 
 Now test the app and generate your own custom QR codes to your site. 
 
